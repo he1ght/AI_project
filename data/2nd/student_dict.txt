@@ -1,0 +1,33 @@
+1 school cate "GP" "MS"
+2 sex cate "F" "M"
+3 age num 15 22
+4 address cate "U" "R"
+5 famsize cate "LE3" "GT3"
+6 Pstatus cate "T" "A"
+7 Medu num 0 4
+8 Fedu num 0 4
+9 Mjob cate "teacher" "health" "services" "at_home" "other"
+10 Fjob cate "teacher" "health" "services" "at_home" "other"
+11 reason cate "home" "reputation" "course" "other"
+12 guardian cate "mother" "father" "other"
+13 traveltime num 1 4
+14 studytime num 1 4
+15 failures exp "n if 1<=n<3 else 4"
+16 schoolsup cate "yes" "no"
+17 famsup cate "yes" "no"
+18 paid cate "yes" "no"
+19 activities cate "yes" "no"
+20 nursery cate "yes" "no"
+21 higher cate "yes" "no"
+22 internet cate "yes" "no"
+23 romantic cate "yes" "no"
+24 famrel num 1 5
+25 freetime num 1 5
+26 goout num 1 5
+27 Dalc num 1 5
+28 Walc num 1 5
+29 health num 1 5
+30 absences num 0 93
+31 G1 num 0 20
+31 G2 num 0 20
+32 G3 num 0 20
