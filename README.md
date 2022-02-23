@@ -1,3 +1,5 @@
+This code was taken from [the dNDF github page](https://github.com/jingxil/Neural-Decision-Forests) and was modified and reproduced to solve the UCI Student problem. (2019 KonKuk Univ. Artificial Intelligence Project)
+
 # Neural-Decision-Forests
 An implementation of the Deep Neural Decision Forests(dNDF) in PyTorch.
 ![](http://cnyah.com/2018/01/29/dNDF/arch.png)
